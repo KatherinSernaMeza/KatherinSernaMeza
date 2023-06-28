@@ -2,7 +2,7 @@
 ![](https://github.com/KatherinSernaMeza/KatherinSernaMeza/blob/main/portada-katherin.jpg)
 
 <p align="center" width="100%">
-    <img  src="img-profile-katherin1.png">
+    <img width="25%" src="img-profile-katherin1.png">
 </p>
 <p align="center" width="100%">
  <b>
