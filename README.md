@@ -1,8 +1,16 @@
 
 ![](https://github.com/KatherinSernaMeza/KatherinSernaMeza/blob/main/portada-katherin.jpg)
 
+<p align="center" width="100%">
+    <img  src="img-profile-katherin1.png">
+</p>
+<p align="center" width="100%">
+ <b>
+ ¡Hey 👋! Soy katherin 👨🏻‍💻
+  </b>
+ </p>
+
 <!-- **KatherinSernaMeza/KatherinSernaMeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
- ### Hello World 👋 
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my own...
