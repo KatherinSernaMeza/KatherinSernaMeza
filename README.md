@@ -9,7 +9,11 @@
  ¡Hey 👋! Soy katherin 👨🏻‍💻
   </b>
  </p>
-
+📹 Últimos proyectos en mi portafolio
+<a href="https://customer-management-app-k7u2-a0wzifdpg-katherinsernameza.vercel.app/"> Customer managment aplication </a>
+<br>
+<br>
+<br>
 <!-- **KatherinSernaMeza/KatherinSernaMeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
