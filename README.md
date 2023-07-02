@@ -10,7 +10,7 @@
   </b>
  </p>
 📹 Últimos proyectos en mi portafolio
-<a href="https://customer-management-dovb7n934-katherinsernameza.vercel.app/"> Customer managment aplication </a>
+<a href="https://customer-management-app-k7u2.vercel.app/"> Customer managment aplication </a>
 <br>
 <br>
 <br>
